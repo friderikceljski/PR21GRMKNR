@@ -20,11 +20,10 @@ Podatki so bili v formatu pc-axis in smo jih v csv pretvorili z uporabo programa
 
 ## Pomembnejša vprašanja
 Na podlagi podatkov lahko pridobimo odgovore na naslednja vprašanja: 
- * doprinos kultur glede na državo skozi leta (recimo za leto 2019 pogledamo razmerje pridelave krompirja, pšenice...)
- * najbolj profitabilne regije
- * gibanje doprinosa kultur skozi čas (recimo  črtni grafikon doprinosa v odvisnosti od časa kjer posamezno linijo predstavlja določena kultura)
- * najbolj profitabilne kulture nasploh (ne glede na regijo)
- * najbolj primerna območja za sajenje določene kulture
+ * <span style="color:green">najbolj profitabilne regije
+ * <span style="color:green">gibanje doprinosa kultur skozi čas (recimo  črtni grafikon doprinosa v odvisnosti od časa kjer posamezno linijo predstavlja določena kultura)
+ * <span style="color:green">najbolj profitabilne kulture v Sloveniji
+ * <span style="color:green">najbolj primerna območja za sajenje določene kulture
  * napoved doprinosa glede na kulturo, regijo in leto
  * napoved najbolj primerne kulture glede na regijo in leto
  * gibanje odkupnih cen kultur skozi leta
@@ -33,10 +32,10 @@ Na podlagi podatkov lahko pridobimo odgovore na naslednja vprašanja:
 ## Izvedena analiza in glavne ugotovitve
 S prva smo analizirali povprečen pridelek na regijo skozi leta. Za to vizualizacijo smo izračunali povprečje vseh kultur v vsaki regiji skozi leta. Iz grafa je razvidno, da smo leta 2013 in 2017 zabeležili največji padez pridelave v večini regij.
 ![Podatki o povprecnem pridelku](Imgs/graf-1.png)
-
+## Gibanje doprinosa kultur skozi čas
 Pri naslednji analizi smo ugotavljali Povprečno pridelavo kultur skozi leta. Za to vizualizacijo smo prikazali koliko je bilo za celotno slvoenijo pridelka posamezne kulture letno. 
 ![Podatki o povprecnem pridelku](Imgs/Graf-2.png)
-
+## Najbolj profitabilne regije
 Za tretjo analizo smo pogledali katera regija je najbolj profitabilna oz. kateri so zaslužili največ na t/ha. Iz grafa je razvidno, da sta Savinjska in Osrednjeslovenska regija najbolj profitabilni.
 ![Podatki o povprecnem pridelku](Imgs/Graf-3.png)
 
