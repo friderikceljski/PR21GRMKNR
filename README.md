@@ -24,9 +24,9 @@ Na podlagi podatkov lahko pridobimo odgovore na naslednja vprašanja:
  * <span style="color:green">gibanje doprinosa kultur skozi čas (recimo  črtni grafikon doprinosa v odvisnosti od časa kjer posamezno linijo predstavlja določena kultura)
  * <span style="color:green">najbolj profitabilne kulture v Sloveniji
  * <span style="color:green">najbolj primerna območja za sajenje določene kulture
- * napoved doprinosa glede na kulturo, regijo in leto
- * napoved najbolj primerne kulture glede na regijo in leto
- * gibanje odkupnih cen kultur skozi leta
+ * <span style="color:green">napoved doprinosa glede na kulturo, regijo in leto
+ * <span style="color:green">napoved najbolj primerne kulture glede na regijo in leto
+ * <span style="color:green">gibanje odkupnih cen kultur skozi leta
  * napovedovanje odkupnih cen kultur
 
 ## Izvedena analiza in glavne ugotovitve
